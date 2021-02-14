@@ -44,6 +44,10 @@ Go through this checklist after creating your repository. It should only take a 
 - [ ] Add a task to create the github environment (to-do)
 - [ ] Add a task to create the production environment (to-do)
 
+### Documentation
+- [ ] Do you need Software Requirements Specifications?
+- [ ] Edit (or delete) the `SRS.md`
+
 ## Contribute
 
 If you think this could be better, please [open an issue](https://github.com/scibuff/starter-pack/issues/new)!
